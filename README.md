@@ -6,7 +6,8 @@ This application is a medium to connect with doctors through video chat.
 - CSS
 - jQuery
 - Python
-----****----
+
+
 
 
 
